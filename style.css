@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;600&display=swap');
+
+* {
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+
+header {
+    background-image: url(./images/bg-header-desktop.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+header img {
+    padding-top: 130px;
+    padding-bottom: 60px;
+}
+
+header h1 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 30px;
+}
+
+header p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+    width: 670px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+header .btn.ios {
+    background-color: hsl(171, 66%, 44%);
+    width: 200px;
+}
+
+header .btn.mac {
+    background-color: hsl(233, 100%, 69%);
+    width: 200px;
+}
+
+.section-one .top-para {
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+
+.section-one .top-para h1 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 30px;
+}
+
+.section-one .top-para p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+    width: 670px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.section-one .img-computer {
+    position: relative;
+    right: 40px;
+    width: 100%;
+}
+
+.section-one .col.second-col {
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.section-one .col.second-col .rows {
+    margin-bottom: 90px;
+    width: 400px;
+}
+
+.section-one .col.second-col .rows h3 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 15px;
+}
+
+.section-one .col.second-col .rows p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+}
+
+.section-two .top-para h1 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 30px;
+    margin-top: 100px;
+}
+
+.section-two .top-para p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+    width: 670px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.final-section .top-para h1 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 30px;
+    margin-top: 150px;
+}
+
+.final-section .top-para p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+    width: 670px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.final-section .container .row .col h2 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 30px;
+    margin-top: 50px;
+}
+
+.final-section .container .row .col p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.final-section .container .row:last-child img {
+    margin-top: 100px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 250px;
+}
+
+footer h1 {
+    font-weight: bold;
+    color: hsl(210, 10%, 33%);
+    margin-bottom: 30px;
+}
+
+footer p {
+    color: hsl(201, 11%, 66%);
+    font-size: 18px;
+    width: 670px;
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+footer .btn.ios {
+    background-color: hsl(171, 66%, 44%);
+    width: 200px;
+}
+
+footer .btn.mac {
+    background-color: hsl(233, 100%, 69%);
+    width: 200px;
+}
+
+.footer-nav {
+    display: flex;
+    padding: 50px 200px;
+    align-items: center;
+    font-size: 50px;
+}
+
+.footer-nav .first-img {
+    margin-left: 200px;
+    margin-right: 100px;
+}
+
+.footer-nav .btns {
+    margin-right: 200px;
+}
+
+.footer-nav .btns button {
+    margin: 0 30px;
+    margin-left: 0px;
+    width: 180px;
+    font-size: 19px;
+    text-align: left;
+}
+
+
+.footer-nav .logos img {
+    margin: 0 10px;
+}
